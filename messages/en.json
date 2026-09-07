@@ -1,0 +1,21 @@
+{
+  "Navigation": {
+    "title": "Event Horizon Essays",
+    "login": "Terminal Access"
+  },
+  "Essays": {
+    "human_survival": {
+      "title": "Will humans survive the 21st century?",
+      "content": "The 21st century acts as the Great Filter for humanity. We face converging crises: runaway climate feedback loops, the advent of Artificial General Intelligence, and synthetic biology capable of engineering pandemics. Yet, survival is not purely a technological equation; it is a sociological one. We will likely survive, but we will not exit the century as the same species that entered it. The pressure of this century will force a rapid evolutionary leap—yielding a heavily modified, potentially multi-planetary civilization that learns to engineer its environment rather than merely extract from it."
+    },
+    "religion_survival": {
+      "title": "Will Religions survive the 21st century?",
+      "content": "Religion has historically served as a framework for meaning, community, and existential comfort. As we uncover the origins of the cosmos and build machines that possess superintelligence, the dogmatic structures of traditional religions will likely fracture. However, the psychological need for ritual and transcendence remains hardcoded in our biology. Religions will survive by mutating. We will witness the birth of 'cosmic spiritualities'—frameworks that synthesize the awe of astrophysics with the contemplative practices of antiquity, turning the vastness of space itself into a cathedral."
+    }
+  },
+  "Comments": {
+    "header": "Transmit Thoughts",
+    "placeholder": "Enter your frequency...",
+    "submit": "Broadcast"
+  }
+}
